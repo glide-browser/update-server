@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="0.1.24a" appVersion="0.1.24a" platformVersion="141.0b8" buildID="20250719140541">
+    <patch type="complete" URL="https://api.github.com/repos/glide-browser/glide/releases/assets/274358200" hashFunction="sha512" hashValue="fab108478f55c6a830274187151e8e70f6a3135ded7c6ee26ccab4b9af740d0a8eaaadb961ed4543ccadccae428f98fe82c335dec8987cfa4e55ba8a402fcf4f" size="67960319"/>
+  </update>
+</updates>
