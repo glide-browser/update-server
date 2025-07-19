@@ -1,0 +1,14 @@
+{
+  "name": "update-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "wrangler": "^4.25.0"
+  },
+  "packageManager": "pnpm@10.11.0",
+  "private": true
+}
