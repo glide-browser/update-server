@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.29a" appVersion="0.1.29a" platformVersion="142.0b9" buildID="20250811003716">
-    <patch type="complete" URL="https://api.github.com/repos/glide-browser/glide/releases/assets/281265442" hashFunction="sha512" hashValue="8276cd6475425221f2e790334d80ee0a7c4750afbfc92d38cf87f52d3463c5305f4e99883cfb8fb27a3991792abc30ea2d2108afc37a24e12b5ae170c972b4e1" size="67777416"/>
+  <update type="minor" displayVersion="0.1.30a" appVersion="0.1.30a" platformVersion="142.0b9" buildID="20250811133233">
+    <patch type="complete" URL="https://api.github.com/repos/glide-browser/glide/releases/assets/281446149" hashFunction="sha512" hashValue="45ca875ac677673769f54369df271b6961752d76c439a9106a36e0ab23cb7f9b743d2317f3bc05779b22b2240febeadecd15418a88db6987f65e28f676021bcd" size="67776752"/>
   </update>
 </updates>
