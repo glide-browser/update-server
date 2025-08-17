@@ -1,0 +1,7 @@
+# just redirect updates for every version to latest for now as it's super simple.
+#
+# in the future I plan on adding some sort of build step that collects versions and points them to
+# a manually added /versions/:version/* path if we need to publish a backwards incompatible change to the
+# updater.
+#
+/updates/:version/browser/:target/glide/update.xml /versions/latest/browser/:target/glide/update.xml 200
