@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.44a" appVersion="0.1.44a" platformVersion="144.0b1" buildID="20250916175520">
-    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.44a/linux-aarch64.mar" hashFunction="sha512" hashValue="80f451228999bee479615923bbaece001a4cc4cc7eb529877dadede0220638f12792865d1b762f05a94216e6d486e7ec931fa8140e23b26dd148c58f936986c6" size="68489639"/>
+  <update type="minor" displayVersion="0.1.45a" appVersion="0.1.45a" platformVersion="144.0b1" buildID="20250917125337">
+    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.45a/linux-aarch64.mar" hashFunction="sha512" hashValue="77daeff634e357d1995d78acfed76e8359e54fd1dfe923b15ecf90809bdccb17c569792028e23e39ab82809a03d325b565154d98ec23f430975ec72d48336898" size="68491915"/>
   </update>
 </updates>
