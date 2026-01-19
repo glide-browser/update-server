@@ -1,7 +1,12 @@
 name: Publish
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      branch:
+        type: string
+        required: false
+        description: branch
 
 jobs:
   publish:
@@ -26,7 +31,8 @@ jobs:
         run: |
           pnpm wrangler pages deploy public \
             --project-name=glide-updates \
-            --branch=main
+            --branch="$BRANCH"
         env:
+          BRANCH: ${{ inputs.branch || 'main' }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
