@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="0.1.58a" appVersion="0.1.58a" platformVersion="148.0b4" buildID="20260119055323">
+    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.58a/windows-x86_64.mar" hashFunction="sha512" hashValue="d78ed862c63f115b21d3206be2db2c9553c6bfe0a13c712b705ab2e11fb00940ae796f5d5c1d0330d41d20457f0a946bbe63150bfac5600960e89bb37e97da9c" size="98758932"/>
+  </update>
+</updates>
