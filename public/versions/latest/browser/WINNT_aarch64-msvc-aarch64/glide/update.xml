@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.58a" appVersion="0.1.58a" platformVersion="148.0b4" buildID="20260119071845">
-    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.58a/windows-aarch64.mar" hashFunction="sha512" hashValue="dc7d527ea45d8d69671ffc80269223147b7fcbad5b588b96f4c3bb830d60fcd42a31fd8ab472bbeaa84755962ad107246dfbbdf33856908f5a47b64e9fddb1ce" size="85163764"/>
+  <update type="minor" displayVersion="0.1.59a" appVersion="0.1.59a" platformVersion="148.0b15" buildID="20260216111642">
+    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.59a/windows-aarch64.mar" hashFunction="sha512" hashValue="55af33a6023069b8109a4259b653232e919517ffc5d58248108da6c0ac7dde9a2652fca75799d6f2ff1e9f12eefada9c4de7b4eb40feeb1b63e958a9882bed8e" size="84939548"/>
   </update>
 </updates>
