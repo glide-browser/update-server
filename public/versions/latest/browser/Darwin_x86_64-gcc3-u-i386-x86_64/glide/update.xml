@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="0.1.64a" appVersion="0.1.64a" platformVersion="156.0b3" buildID="20260906044024">
-    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.64a/macos-x86_64.mar" hashFunction="sha512" hashValue="c8fb27b0818f0752307b911bb9f8a6d279c78d54a5a28867a1b868d15e76b0870c6580195191eb94e06f831a3433136cf0b95ceba3a025bbed279ba373d1e5ab" size="90386287"/>
+  <update type="minor" displayVersion="0.1.64a" appVersion="0.1.64a" platformVersion="156.0b3" buildID="20260906053436">
+    <patch type="complete" URL="https://github.com/glide-browser/glide/releases/download/0.1.64a/macos-x86_64.mar" hashFunction="sha512" hashValue="70c92e538261926aef4357416bc28949a1bf9fc939a94e30420579f01c2b2dd97b6b65e4b750f2647ee27d14298d0f4beb7191e2ad824307fce6d7153e444a6c" size="90382075"/>
   </update>
 </updates>
